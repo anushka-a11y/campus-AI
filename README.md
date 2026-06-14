@@ -105,28 +105,28 @@ Example:
 
 ## Features
 
-### 📚 Library MCP
+### Library MCP
 
 - View available books
 - Check book availability
 
-### 🎉 Events MCP
+### Events MCP
 
 - View upcoming campus events
 - Access event dates and details
 
-### 🍽 Cafeteria MCP
+### Cafeteria MCP
 
 - View cafeteria menu
 - Automatically identify today's menu
 
-### 🎓 Academics MCP
+### Academics MCP
 
 - Attendance policies
 - Credit requirements
 - Academic regulations
 
-### 🤖 AI Assistant
+### AI Assistant
 
 - Natural language queries
 - Multi-server routing
