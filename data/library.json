@@ -1,0 +1,7 @@
+[
+  {"title":"Introduction to Algorithms","available":true},
+  {"title":"Computer Networks","available":true},
+  {"title":"Clean Code","available":true},
+  {"title":"Database System Concepts","available":true},
+  {"title":"Operating System Concepts","available":false}
+]

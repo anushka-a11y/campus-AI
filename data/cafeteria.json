@@ -1,0 +1,31 @@
+[
+  {
+    "day": "Monday",
+    "menu": "Pasta"
+  },
+  {
+    "day": "Tuesday",
+    "menu": "Paneer Butter Masala"
+  },
+  {
+    "day": "Wednesday",
+    "menu": "Veg Biryani"
+  },
+  {
+    "day": "Thursday",
+    "menu": "Pizza"
+  },
+  {
+    "day": "Friday",
+    "menu": "Butter Chicken"
+  },
+  {
+    "day": "Saturday",
+    "menu": "Noodles"
+  },
+  {
+    "day": "Sunday",
+    "menu": "Poha"
+  }
+
+]
